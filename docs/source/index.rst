@@ -10,6 +10,7 @@ Welcome to Awesome My Bookmarks's documentation!
    :maxdepth: 2
    :caption: Contents:
 
+   README
 
 
 Indices and tables

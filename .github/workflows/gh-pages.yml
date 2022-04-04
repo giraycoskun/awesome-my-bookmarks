@@ -26,6 +26,7 @@ jobs:
         
       - name: Build Sphinx 🔧
         run: |
+          mv *.md ./docs/source/.
           cd docs
           make html
       
