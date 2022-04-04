@@ -11,7 +11,7 @@ Welcome to Awesome My Bookmarks's documentation!
    :caption: Contents:
 
    README
-
+   PYTHON
 
 Indices and tables
 ==================

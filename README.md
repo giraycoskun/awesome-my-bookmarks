@@ -6,7 +6,7 @@ Awesome curated lists are great! However I forget what I learn and hope to use. 
 
 ## While Building
 
-- [PYTHON.md](./)
+- [PYTHON.md](./PYTHON.md)
 
 
 
